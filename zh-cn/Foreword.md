@@ -4,7 +4,7 @@ I have always been endlessly fascinated with the details of how Google does thin
 
 我对谷歌做事的细节着迷不已。我也曾向在谷歌工作的朋友问询谷歌内部如何运作。他们是如何管理如此庞大的单体代码库而不出错的？数以万计的工程师是如何在数千个项目上成功协作的？他们是如何保持系统的质量的？
 
-Working with former Googlers has only increased my curiosity. If you’ve ever worked with a former Google engineer (or “Xoogler,” as they’re sometimes called), you’ve no doubt heard the phrase “at Google we…” Coming out of Google into other companies seems to be a shocking experience, at least from the engineering side of things. As far as this outsider can tell, the systems and processes for writing code at Google must be among the best in the world, given both the scale of the company and how often peo‐ ple sing their praises.
+Working with former Googlers has only increased my curiosity. If you’ve ever worked with a former Google engineer (or “Xoogler,” as they’re sometimes called), you’ve no doubt heard the phrase “at Google we…” Coming out of Google into other companies seems to be a shocking experience, at least from the engineering side of things. As far as this outsider can tell, the systems and processes for writing code at Google must be among the best in the world, given both the scale of the company and how often people sing their praises.
 
 与前谷歌员工一起共事，只会增加我的好奇心。如果你曾经与前谷歌工程师（或他们有时称之为“Xoogler”）一起工作，你无疑听到过这样一句话："在谷歌我们......" 从谷歌出来进入其他公司已经是一个令人羡慕的经历，至少从工程方面来说是这样。就我这个局外人而言，考虑到公司的规模和员工对其的赞誉程度，谷歌公司编写代码的系统和流程一定是世界上最好的之一。
 
